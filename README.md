@@ -4,6 +4,8 @@ A reworked version of the starter influencer search app: full visual redesign, Z
 state management, a working "Add to List" feature with persistence, several bug fixes,
 and performance/code-quality cleanup.
 
+> Built as a submission for the Wobb vibe-coder assignment.
+
 ## Run it
 
 ```bash
